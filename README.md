@@ -1,7 +1,6 @@
 # carrosAPI
 
-```markdown project="Spring Documentation" file="README.md" type="markdown"
-# 🚀 API de Produtos com Spring Boot
+## 🚀 API de Produtos com Spring Boot
 
 API RESTful para gerenciamento de produtos desenvolvida com Spring Boot.
 
