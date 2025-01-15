@@ -8,7 +8,6 @@ API RESTful para gerenciamento de produtos desenvolvida com Spring Boot.
 
 - Java JDK 17 ou superior
 - Maven 3.6+
-- IDE de sua preferência (recomendado: IntelliJ IDEA ou Spring Tool Suite)
 
 ## 🛠️ Tecnologias Utilizadas
 
